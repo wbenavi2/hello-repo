@@ -1,0 +1,85 @@
+{
+    "Movies": [
+        {
+            "MovieDescription": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "MovieYear": 1972,
+            "MoviePicture": "https://i.ibb.co/cX6jrmd/godfather.jpg",
+            "MovieGenre": "Action",
+            "MovieName": "The Godfather",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=CWoQlDlyQj4"
+        },
+        {
+            "MovieDescription": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+            "MovieYear": 2009,
+            "MoviePicture": "https://i.ibb.co/PCCkY3y/ff.jpg",
+            "MovieGenre": "Action/Drama",
+            "MovieName": "Fast and Furious",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=2TAOizOnNPo"
+        },
+        {
+            "MovieDescription": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+            "MovieYear": 2018,
+            "MoviePicture": "https://i.ibb.co/pdDWv8Z/Black-Panther.jpg",
+            "MovieGenre": "Action/Adventure",
+            "MovieName": "Black Panther",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=dxWvtMOGAhw"
+        },
+        {
+            "MovieDescription": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+            "MovieYear": 2009,
+            "MoviePicture": "https://i.ibb.co/zRL98mk/the-Hangover.jpg",
+            "MovieGenre": "Comedy/Action",
+            "MovieName": "The Hangover",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=tlize92ffnY"
+        },
+        {
+            "MovieDescription": "An ensemble comedy about a day in the life of a barbershop on the south side of Chicago. It's Calvin's shop, and he inherited the struggling business from his father, but with bills to pay and a baby on the way, he sees the shop as a burden and a waste of time.",
+            "MovieYear": 2002,
+            "MoviePicture": "https://i.ibb.co/b73nc00/barbershop.jpg",
+            "MovieGenre": "Drama",
+            "MovieName": "Barbershop",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=BH5kMAHANr0"
+        },
+        {
+            "MovieDescription": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+            "MovieYear": 2009,
+            "MoviePicture": "https://i.ibb.co/zbdnwQ6/avatar.jpg",
+            "MovieGenre": "Sci-Fi Action",
+            "MovieName": "Avatar",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=6ziBFh3V1aM"
+        },
+        {
+            "MovieDescription": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+            "MovieYear": 2007,
+            "MoviePicture": "https://i.ibb.co/zNyjBr3/superbad.jpg",
+            "MovieGenre": "Comedy",
+            "MovieName": "Superbad",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog"
+        },
+        {
+            "MovieDescription": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson.",
+            "MovieYear": 2006,
+            "MoviePicture": "https://i.ibb.co/dbxMm4Q/borat.jpg",
+            "MovieGenre": "Comedy",
+            "MovieName": "Borat",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=j4W51ndJ8Mc"
+        },
+        {
+            "MovieDescription": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+            "MovieYear": 2001,
+            "MoviePicture": "https://i.ibb.co/48V1p5p/shrek.jpg",
+            "MovieGenre": "2001",
+            "MovieName": "Shrek",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=CwXOrWvPBPk"
+        },
+        {
+            "MovieDescription": "A young woman, after witnessing her parents' murder as a child in Bogota, grows up to be a stone-cold assassin. ",
+            "MovieYear": 2011,
+            "MoviePicture": "https://i.ibb.co/rpMCVtb/colombiana.jpg",
+            "MovieGenre": "Action",
+            "MovieName": "Colombiana",
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=HCxPLlFWdFo"
+        }
+    ],
+    "Status": "OK"
+}

@@ -6,7 +6,9 @@
             "MoviePicture": "https://i.ibb.co/F05B0Bk/godfather.jpg",
             "MovieGenre": "Action",
             "MovieName": "The Godfather",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=CWoQlDlyQj4"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=CWoQlDlyQj4",
+            "MovieDuration": "2h 55m",
+            "MovieRate": "R"
         },
         {
             "MovieDescription": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
@@ -14,7 +16,9 @@
             "MoviePicture": "https://i.ibb.co/2WPcV5G/ff.jpg",
             "MovieGenre": "Action/Drama",
             "MovieName": "Fast and Furious",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=2TAOizOnNPo"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=2TAOizOnNPo",
+            "MovieDuration": "1h 47m",
+            "MovieRate": "PG-13"
         },
         {
             "MovieDescription": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
@@ -22,7 +26,9 @@
             "MoviePicture": "https://i.ibb.co/wR0kZdP/Black-Panther.jpg",
             "MovieGenre": "Action/Adventure",
             "MovieName": "Black Panther",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=dxWvtMOGAhw"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=dxWvtMOGAhw",
+            "MovieDuration": "2h 14m",
+            "MovieRate": "PG-13"
         },
         {
             "MovieDescription": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
@@ -30,7 +36,9 @@
             "MoviePicture": "https://i.ibb.co/hmwGQfJ/the-Hangover.jpg",
             "MovieGenre": "Comedy/Action",
             "MovieName": "The Hangover",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=tlize92ffnY"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=tlize92ffnY",
+            "MovieDuration": "1h 40m",
+            "MovieRate": "R"
         },
         {
             "MovieDescription": "An ensemble comedy about a day in the life of a barbershop on the south side of Chicago. It's Calvin's shop, and he inherited the struggling business from his father, but with bills to pay and a baby on the way, he sees the shop as a burden and a waste of time.",
@@ -38,7 +46,9 @@
             "MoviePicture": "https://i.ibb.co/M2mCMTS/barbershop.jpg",
             "MovieGenre": "Drama",
             "MovieName": "Barbershop",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=BH5kMAHANr0"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=BH5kMAHANr0",
+            "MovieDuration": "1h 42m",
+            "MovieRate": "PG-13"
         },
         {
             "MovieDescription": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
@@ -46,7 +56,9 @@
             "MoviePicture": "https://i.ibb.co/z71fwQn/avatar.jpg",
             "MovieGenre": "Sci-Fi Action",
             "MovieName": "Avatar",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=6ziBFh3V1aM"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=6ziBFh3V1aM",
+            "MovieDuration": "2h 42m",
+            "MovieRate": "PG-13"
         },
         {
             "MovieDescription": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
@@ -54,7 +66,9 @@
             "MoviePicture": "https://i.ibb.co/6Zvh1v6/superbad.jpg",
             "MovieGenre": "Comedy",
             "MovieName": "Superbad",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+            "MovieDuration": "1h 53m",
+            "MovieRate": "R"
         },
         {
             "MovieDescription": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson.",
@@ -62,7 +76,9 @@
             "MoviePicture": "https://i.ibb.co/vj2hDHW/borat.jpg",
             "MovieGenre": "Comedy",
             "MovieName": "Borat",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=j4W51ndJ8Mc"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=j4W51ndJ8Mc",
+            "MovieDuration": "1h 24m",
+            "MovieRate": "R"
         },
         {
             "MovieDescription": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
@@ -70,7 +86,9 @@
             "MoviePicture": "https://i.ibb.co/R6MBrr3/shrek.jpg",
             "MovieGenre": "Animation",
             "MovieName": "Shrek",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=CwXOrWvPBPk"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=CwXOrWvPBPk",
+            "MovieDuration": "1h 30m",
+            "MovieRate": "PG"
         },
         {
             "MovieDescription": "A young woman, after witnessing her parents' murder as a child in Bogota, grows up to be a stone-cold assassin. ",
@@ -78,7 +96,9 @@
             "MoviePicture": "https://i.ibb.co/6rnHB50/colombiana.jpg",
             "MovieGenre": "Action",
             "MovieName": "Colombiana",
-            "MovieSiteUrl": "https://www.youtube.com/watch?v=HCxPLlFWdFo"
+            "MovieSiteUrl": "https://www.youtube.com/watch?v=HCxPLlFWdFo",
+            "MovieDuration": "1h 48m",
+            "MovieRate": "PG-13"
         }
     ],
     "Status": "OK"
